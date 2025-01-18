@@ -126,11 +126,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kghthor&theme=2077&utcOffset=6)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kghthor&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/kghthor/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kghthor&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kghthor&theme=dark)
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kghthor&theme=2077)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kghthor&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kghthor&theme=dracula)](https://github.com/kghthor/github-profile-trophy)
 <br /> 
 <div align='center'>
