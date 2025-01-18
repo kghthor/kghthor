@@ -126,7 +126,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kghthor&theme=2077&utcOffset=6)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kghthor&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/kghthor/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kghthor&theme=dracula)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kghthor" alt="GitHub Streak" style="filter: invert(1) hue-rotate(180deg);" />
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kghthor&show_icons=true&theme=dark)
