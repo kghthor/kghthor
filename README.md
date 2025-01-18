@@ -130,7 +130,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kghthor&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kghthor&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kghthor&theme=dracula)](https://github.com/kghthor/github-profile-trophy)
 <br /> 
 <div align='center'>
