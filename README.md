@@ -95,9 +95,9 @@
     &emsp;
     <a href=""><img alt = "Codeforces" src="https://img.shields.io/badge/CodeForces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href=""><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href=https://leetcode.com/u/kghthor/""><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="https://www.hackerrank.com/harish_1902045"><img alt = "Hackerrank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=black" /></a>
+    <a href="https://www.hackerrank.com/profile/kghthor"><img alt = "Hackerrank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=black" /></a>
   &emsp;
     <a href="h"><img alt = "CodeChef" src="https://img.shields.io/badge/Codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
@@ -105,7 +105,7 @@
   &emsp;
     <a href=""><img alt = "Codewars" src="https://img.shields.io/badge/CodeWars-%232EC866.svg?&style=plastic&logo=CodeWars&logoColor=black" /></a>
   &emsp;
-    <a href=""><img alt = "HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%1F891FCB.svg?&style=plastic&logo=HackerEarth&logoColor=white" /></a>
+
 </p></div>
 <br />
 
