@@ -37,7 +37,8 @@
 
 - I’m currently open for a new `job opportunity`.
   
-- Reach me: <a href="mailto:harishindian123@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-harishindian123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+-Reach me: <a href="mailto:harishindian123@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-harishindian123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
 
 - Add me on <a href="https://www.linkedin.com/in/kghthor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
 
