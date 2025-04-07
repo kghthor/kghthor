@@ -95,7 +95,7 @@
     &emsp;
     <a href=""><img alt = "Codeforces" src="https://img.shields.io/badge/CodeForces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href=https://leetcode.com/u/kghthor/""><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href=https://leetcode.com/u/kghthor/><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
     <a href="https://www.hackerrank.com/profile/kghthor"><img alt = "Hackerrank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=black" /></a>
   &emsp;
