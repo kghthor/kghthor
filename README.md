@@ -1,4 +1,4 @@
-<p align="center">  
+<p align="center">   
   <img      src="https://github.com/kghthor/Personal-Portfolio/blob/master/src/images/profile.png" height="200"/>      
 </p>        
     
