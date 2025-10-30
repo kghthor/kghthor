@@ -5,7 +5,7 @@
 <h3 align="center">             
     <img  src="https://github.com/kghthor/awesome-github-profile-readme-templates-main/blob/master/Gif%20Files/hello.gif" width="21"></a> Hi, I'm Harish K G 💻⚡! A passionate Full Stack Developer from India  <img align="center" alt="GIF" width="30"  src="https://github.com/kghthor/awesome-github-profile-readme-templates-main/blob/master/Gif%20Files/Developer.gif" width="36"/>
 </h3> 
-    
+     
 <p align="center">
     &emsp;
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg? url=https%3A%2F%2Fgithub.com%2F0_My_Template%2F%26title%3DProfile%2520Views&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a>
