@@ -4,7 +4,7 @@
                         
 <h3 align="center">              
     <img  src="https://github.com/kghthor/awesome-github-profile-readme-templates-main/blob/master/Gif%20Files/hello.gif" width="21"></a> Hi, I'm Harish K G 💻⚡! A passionate Full Stack Developer from India  <img align="center" alt="GIF" width="30"  src="https://github.com/kghthor/awesome-github-profile-readme-templates-main/blob/master/Gif%20Files/Developer.gif" width="36"/>
-</h3> 
+</h3>  
       
 <p align="center">
     &emsp;
